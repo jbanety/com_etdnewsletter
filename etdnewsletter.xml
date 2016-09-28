@@ -32,7 +32,6 @@
 			<filename>config.xml</filename>
 			<filename>controller.php</filename>
 			<filename>etdnewsletter.php</filename>
-			<filename>etdnewsletter.xml</filename>
 			<folder>controllers</folder>
 			<folder>helpers</folder>
 			<folder>models</folder>
