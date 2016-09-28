@@ -38,8 +38,8 @@
 			<folder>views</folder>
 		</files>
 		<languages folder="admin">
-			<language tag="fr-FR">language/fr-FR.com_etdnewsletter.ini</language>
-			<language tag="fr-FR">language/fr-FR.com_etdnewsletter.sys.ini</language>
+			<language tag="fr-FR">language/fr-FR/fr-FR.com_etdnewsletter.ini</language>
+			<language tag="fr-FR">language/fr-FR/fr-FR.com_etdnewsletter.sys.ini</language>
 		</languages>
 	</administration>
 </extension>
