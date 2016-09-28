@@ -35,6 +35,7 @@
 			<folder>controllers</folder>
 			<folder>helpers</folder>
 			<folder>models</folder>
+			<folder>sql</folder>
 			<folder>views</folder>
 		</files>
 		<languages folder="admin">
