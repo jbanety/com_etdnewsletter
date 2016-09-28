@@ -90,14 +90,6 @@ class EtdNewsletterViewEmails extends JViewLegacy {
 
         JToolbarHelper::title(JText::_('COM_ETDNEWSLETTER_MANAGER_EMAILS'), 'address contact');
 
-        if ($this->canDo->get('core.create')) {
-            JToolbarHelper::addNew('email.add');
-        }
-
-        if ($this->canDo->get('core.edit')) {
-            JToolbarHelper::editList('email.edit');
-        }
-
         if ($this->canDo->get('core.delete')) {
             JToolbarHelper::deleteList('JGLOBAL_CONFIRM_DELETE', 'emails.delete', 'JTOOLBAR_DELETE');
         }
